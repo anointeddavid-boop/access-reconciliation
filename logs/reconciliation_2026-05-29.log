@@ -1,0 +1,9 @@
+2026-05-29 23:22:51,749 [INFO] Starting reconciliation process
+2026-05-29 23:22:52,747 [INFO] C-CURE loaded: 6918 records
+2026-05-29 23:22:52,749 [INFO] Genetec loaded: 4000 records
+2026-05-29 23:22:52,815 [INFO] Writing output file...
+2026-05-29 23:22:53,971 [INFO] RECONCILIATION COMPLETE
+2026-05-29 23:22:53,972 [INFO] Only in C-CURE   : 4801
+2026-05-29 23:22:53,972 [INFO] Only in Genetec  : 3900
+2026-05-29 23:22:53,972 [INFO] In Both          : 0
+2026-05-29 23:22:53,972 [INFO] Output saved to  : output/reconciliation_2026-05-29_23-22.xlsx
